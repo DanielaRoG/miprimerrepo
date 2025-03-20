@@ -1,1 +1,2 @@
-Este es un readme para crear mi primer repo
+# ad-l8
+AD-14-1 The Blog Site Refactor - Group
